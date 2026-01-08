@@ -38,7 +38,7 @@ To clean, analyze and visualize raw Amazon sales data and convert it into a busi
 ---
 
 ## 📁 Files Included
-- `Task1_Amazon_Sales_Dashboard.pbix` – Power BI Dashboard file  
+- `Task1.pbix` – Power BI Dashboard file  
 - `Screenshots/` – Dashboard preview images  
 
 ---
